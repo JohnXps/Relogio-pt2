@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.texto{
+    margin: 0px 40px;
+    margin-top: 20px;
+    font-size: 40px;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+}
+
+#img{
+    margin-left: 690px;
+    margin-top: 300px;
+    
+}
+
+footer {
+    background-color: #0000007b;
+    text-align: center;
+    color: #ff0000;
+    padding: 10px;
+    font-size: 30px;
+    
+}
+
+
+footer a{
+    color: #ffffff;
+    text-decoration: none;
+}
