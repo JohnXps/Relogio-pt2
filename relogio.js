@@ -14,12 +14,12 @@ function relogio(){
     const minutos = horaAgora.getMinutes();
     const segundos = horaAgora.getSeconds();
 
-    const formatoHora = 22
+//     const formatoHora = 22
 
 
 
 
-    // const formatoHora = horas.toString().padStart(2,"0");
+    const formatoHora = horas.toString().padStart(2,"0");
     // converteu hora para string
     // padStart como vai aparecer 
     const formatoMinutos = minutos.toString().padStart(2,"0");
